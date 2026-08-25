@@ -1,66 +1,47 @@
-# flyingmeai01-ship-it
+# Hi, I'm Sachin Singh Pundir 👋
 
-Hi there! 👋 I'm [Your Name Here]. I'm an AI / machine learning engineer and developer focused on building tools and experiments that make neural models easier to understand, train, and deploy.
-
----
-
-## About me
-
-- 🔭 Currently working on: Neural_engine — a compact neural network engine and experimentation toolkit.
-- 🌱 Learning: advanced model optimization techniques, model interpretability, and robust training workflows.
-- 👯 Looking to collaborate on: open-source ML tooling, research reproducibility, and educational projects that demystify deep learning.
-- 🤔 Ask me about: neural network fundamentals, training loops, experiments, and deploying models to small-scale production.
-- 📫 How to reach me: [email@example.com] (replace with preferred contact)
-- 😄 Pronouns: (optional)
-- ⚡ Fun fact: I enjoy turning research ideas into small, runnable projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;BSc+CS+Student+(2nd+Year);Interested+in+CS+Systems+%26+Applied+AI;Building+Neural+Networks+in+C%2B%2B" alt="Typing SVG" />
+</p>
 
 ---
 
-## Projects
+## 🙋 Intro
+- **GitHub Username:** [@flyingmeai01-ship-it](https://github.com/flyingmeai01-ship-it)
+- **Real Name:** **Sachin Singh Pundir**
+- **Qualification:** **BSc CS Student (2nd Year)**
+- **Interests:** **Computer Systems, AI, and Applied AI**
 
-### Neural_engine
-Neural_engine is a lightweight, educational neural network engine I built to experiment with model components, training loops, and small deployments.
+---
 
-Short description
-- Goal: [Brief goal — e.g., "Provide a minimal, transparent framework for building and understanding neural nets from scratch."]
-- Status: [e.g., "alpha / in-progress / v0.1"]
+## 📬 Connect with me
+- **Email:** [sachinsinghpundir1@gmail.com](mailto:sachinsinghpundir1@gmail.com)
+- **LinkedIn:** _Add your LinkedIn profile URL on GitHub profile settings and I can auto-place it here._
 
-Main features
-- Core building blocks: layers (Dense, Conv), activation functions, loss functions
-- Training loop: configurable optimizers, learning-rate scheduling, checkpointing
-- Utilities: data loaders, metric logging, reproducibility helpers (config + seeds)
-- Examples: small classification and regression examples in examples/
+---
 
-Tech stack
-- Language: Python
-- Libraries: NumPy, PyTorch (optional for comparisons), matplotlib
-- Dev tooling: pytest, black, flake8, Jupyter notebooks for demos
+## 🚀 Featured Project: `neural_engine`
 
-Quick start (example)
-1. Clone the repo:
-   git clone https://github.com/flyingmeai01-ship-it/flyingmeai01-ship-it.git
-2. Create and activate a virtual environment:
-   python -m venv venv && source venv/bin/activate
-3. Install dependencies:
-   pip install -r requirements.txt
-4. Run an example training script:
-   python examples/train_simple_net.py --config configs/simple_classification.yaml
+**Repository:** [flyingmeai01-ship-it/Neural_Engine](https://github.com/flyingmeai01-ship-it/Neural_Engine)
 
-Repository layout (example)
-- neural_engine/        # core library
-- examples/             # small runnable examples
-- notebooks/            # demo notebooks & visualizations
-- tests/                # unit tests
-- README.md
-- requirements.txt
+### Project Description
+Neural Engine is a **neural network implementation in C++** built as a starter-to-serious learning project.  
+The goal is to build neural-network fundamentals from scratch—similar to a "Hello, World" journey for AI systems.
 
-Roadmap
-- Add more layers (dropout, batchnorm), optimizers, and schedulers
-- Expand examples and small-model benchmarks
-- Improve serialization/export for inference
+### Highlights from the real project README
+- Matrix operations are implemented as the core foundation.
+- Matrix addition and subtraction are already completed.
+- Architecture uses a **1D vector** approach for better runtime and memory efficiency.
+- Uses C++ operator overloading (`()`, `+`, `-`) and assertions for bounds checks.
+- Structured as a 6-week project with step-wise progress.
 
-Contributing
-- Issues and PRs welcome. Describe proposed changes in an issue before large work.
+### Current Repo Metadata
+- **Language:** C++
+- **Repo Description:** "Its a Neural Network Repository implemented neural network in C++."
 
-License
-- [MIT] (replace if you prefer another)
+---
+
+## ✨ Fun
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer" />
+</p>
