@@ -16,7 +16,7 @@
 
 ## 📬 Connect with me
 - **Email:** [sachinsinghpundir1@gmail.com](mailto:sachinsinghpundir1@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/sachin-singh-pundir-bsc-01-me/)
+- **LinkedIn:** (https://www.linkedin.com/in/sachin-singh-pundir-bsc-01-me)
 
 ---
 
