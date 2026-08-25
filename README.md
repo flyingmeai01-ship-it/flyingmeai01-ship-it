@@ -16,7 +16,7 @@
 
 ## 📬 Connect with me
 - **Email:** [sachinsinghpundir1@gmail.com](mailto:sachinsinghpundir1@gmail.com)
-- **LinkedIn:** _Add your LinkedIn profile URL on GitHub profile settings and I can auto-place it here._
+- **LinkedIn:** (https://www.linkedin.com/in/sachin-singh-pundir-bsc-01-me/)
 
 ---
 
