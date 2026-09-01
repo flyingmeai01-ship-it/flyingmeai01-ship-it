@@ -8,8 +8,8 @@
 
 ## 🙋 Intro
 - **GitHub Username:** [@flyingmeai01-ship-it](https://github.com/flyingmeai01-ship-it)
-- **Real Name:** **Sachin Singh Pundir**
-- **Qualification:** **BSc CS Student (2nd Year)**
+- *This is Sachin singh pundir*
+- *BSc CS Student (2nd Year)*
 - **Interests:** **Computer Systems, AI, and Applied AI**
 
 ---
