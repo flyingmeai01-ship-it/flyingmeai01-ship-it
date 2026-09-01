@@ -7,9 +7,9 @@
 ---
 
 ## 🙋 Intro
-- **GitHub Username:** [@flyingmeai01-ship-it](https://github.com/flyingmeai01-ship-it)
-- *This is Sachin singh pundir*
+- *This is Sachin singh pundir* `flying`
 - *BSc CS Student (2nd Year)*
+- **GitHub Username:** [@flyingmeai01-ship-it](https://github.com/flyingmeai01-ship-it)
 - **Interests:** **Computer Systems, AI, and Applied AI**
 
 ---
@@ -29,11 +29,7 @@ Neural Engine is a **neural network implementation in C++** built as a starter-t
 The goal is to build neural-network fundamentals from scratch—similar to a "Hello, World" journey for AI systems.
 
 ### Highlights from the real project README
-- Matrix operations are implemented as the core foundation.
-- Matrix addition and subtraction are already completed.
-- Architecture uses a **1D vector** approach for better runtime and memory efficiency.
-- Uses C++ operator overloading (`()`, `+`, `-`) and assertions for bounds checks.
-- Structured as a 6-week project with step-wise progress.
+- Watch on **Repository:** [flyingmeai01-ship-it/Neural_Engine](https://github.com/flyingmeai01-ship-it/Neural_Engine)
 
 ### Current Repo Metadata
 - **Language:** C++
