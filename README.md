@@ -11,6 +11,11 @@
 - *BSc CS Student (2nd Year)*
 - **GitHub Username:** [@flyingmeai01-ship-it](https://github.com/flyingmeai01-ship-it)
 - **Interests:** **Computer Systems, AI, and Applied AI**
+  
+---
+
+## Skills
+- :)
 
 ---
 
